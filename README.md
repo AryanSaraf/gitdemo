@@ -1,1 +1,1 @@
-# AWS Git demo
+# AWS git demo
